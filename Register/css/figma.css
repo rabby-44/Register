@@ -39,6 +39,7 @@ hr{
     background-color: #F3F3F3;
     border: 1px solid #F3F3F3;
     border-radius: 3px;
+    padding: 1%;
 }
 p{
     font-size: 19px;
@@ -58,7 +59,9 @@ p{
     border: 1px solid #F3F3F3;
     border-radius: 3px;
     color: white;
+    cursor: pointer;
 }
+
 
 
 /* responsiv */ 
